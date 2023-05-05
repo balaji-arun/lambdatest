@@ -1,0 +1,16 @@
+{
+    "desired_caps":{
+    "single_test": {
+        "browserName": "Chrome",
+        "browserVersion": "86.0",
+    "LT:Options": {
+        "username": "balajiarul4",
+        "accessKey": "MELst1axb7hpLLjrGvOuhjg3xUyoHlRVc7mDIp1P5BBCpKTQbQ",
+        "platformName": "Windows 10",
+        "project": "Untitled",
+        "w3c": "True",
+        "plugin": "python-pytest"
+    }
+}
+    }
+}
